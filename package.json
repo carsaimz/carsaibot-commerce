@@ -1,0 +1,32 @@
+{
+  "name": "carsaibot-commerce",
+  "version": "1.0.0",
+  "description": "Bot de vendas para WhatsApp com sistema completo de moderação",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": ["whatsapp", "bot", "sales", "moderation",
+      "bot de whatsapp",
+    "carsaidev",
+    "carsaimz",
+    "carimo saide",
+    "moçambique"
+  ],
+  "author": "CarsaiDev",
+  "license": "MIT",
+  "dependencies": {
+    "baileys": "^6.7.16",
+    "@hapi/boom": "^10.0.0",
+    "better-sqlite3": "^8.5.0",
+    "pino": "^9.1.1",
+    "qrcode-terminal": "^0.12.0",
+    "moment-timezone": "^0.5.43",
+    "node-cron": "^5.1.2",
+    "sharp": "^0.32.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
