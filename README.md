@@ -1,4 +1,4 @@
-# 🤖 WhatsApp Sales Bot
+# 🤖 CarsaiBot Commerce - Bot de vendas para WhatsApp
 
 Bot de vendas automatizado para WhatsApp com sistema completo de moderação e gerenciamento.
 
@@ -18,7 +18,7 @@ Bot de vendas automatizado para WhatsApp com sistema completo de moderação e g
 
 1. Clone o repositório
 ```bash
-git clone https://github.com/carsaidev/carsaibot-commerce.git
+git clone https://github.com/carsaimz/carsaibot-commerce.git
 cd carsaibot-commerce
 ```
 
@@ -93,4 +93,6 @@ Edite o arquivo `config/config.js` para configurar:
 
 ## 📄 Licença
 
-Este projeto está licenciado sob a licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+Copyright (c) 2024 CarsaiBot Commerce @Carsai Mozambique by Carimo Saide Mpinda
